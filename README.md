@@ -45,7 +45,7 @@ This project implements a **Bayesian Gaussian Mixture Model (GMM)** with Gibbs s
 ---
 
 ## 📂 Repository Structure
-- **fund_gmm_10funds.R** – R script implementing Bayesian GMM for first 10 funds.  
+- **gmm_test3.R** – R script implementing Bayesian GMM for first 10 funds.  
 - **GMM_output.pdf** – Output file with parameter estimates, posterior plots, and crisis mapping.  
 - **fund_state_assignments.xlsx** – Exported Excel file with fund × time state assignments.  
 
